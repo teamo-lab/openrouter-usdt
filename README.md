@@ -109,3 +109,4 @@ TeamoRouter prices are from its [models page](https://teamorouter.com/models?utm
 - [teamo-lab/pagar-claude-con-usdt](https://github.com/teamo-lab/pagar-claude-con-usdt): guía en español
 
 Corrections welcome. Open an issue if something here is out of date.
+- [teamo-lab/new-llm-api-releases](https://github.com/teamo-lab/new-llm-api-releases): new model IDs, official prices and code examples on launch day
